@@ -1,0 +1,4 @@
+Course Credits Score
+cs121 4 98
+cs124 3 95
+eng200 3 89
